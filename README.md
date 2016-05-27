@@ -6,11 +6,9 @@ A batch file for the user was under production but we were unable to get it func
 
 Files to run:
 
-Drop.sql
-
-createTables.sql
-
-insertInfo.sql
+1. Drop.sql
+2. createTables.sql
+3. insertInfo.sql
 
 This was the final project for the database course I took.
 
