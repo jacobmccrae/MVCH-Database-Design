@@ -1,5 +1,7 @@
 # MVCH Database Design
 
+View Database_Manual.docx to learn more about this database.
+
 To install the database, you must run each sql file in this order. 
 
 A batch file for the user was under production but we were unable to get it functional due to restrictions on the machines we were using.
